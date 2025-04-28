@@ -6,7 +6,6 @@ A modern web application showcasing interactive job cards with save/apply functi
 
 ## Features
 
-- 🖥️ Dynamic UI generation from JSON data
 - 💾 Toggleable save/apply buttons with state persistence
 - 🎨 Glassmorphism design with smooth transitions
 - 📱 Fully responsive layout
